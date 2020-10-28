@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+#index
+theme:  minima
+title:  Deep Learning Diary
+future:  true
+
+##header navigation
+#header_pages:
+#feed.xml
+name:  Deep Learning Diary
+description:  One place for tutorials, notes, and projects about deep learning!
+url:  https://nurriol2.github.io/deep-learning-diary/
