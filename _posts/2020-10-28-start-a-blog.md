@@ -1,6 +1,4 @@
 ---
-layout:  post
-author:  Elliot 
 title:  Starting Your Own Diary
 ---
 
@@ -8,9 +6,10 @@ title:  Starting Your Own Diary
     - settings 
     - change theme
     - important dirs
-    - understanding YAML
     - links to:
         - github guides
         - `feed.xml` templates
-        - jekyll docs (?)
+    - jekyll docs
+        - [front matter defaults](https://jekyllrb.com/docs/configuration/front-matter-defaults/)
+        - [directory structure](https://jekyllrb.com/docs/structure/)
 - notes from pages-test
