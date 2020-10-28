@@ -1,7 +1,7 @@
 ---
 layout:  post
 author:  Elliot 
-title:  Blogging
+title:  Starting Your Own Diary
 ---
 
 - guided tutorial
