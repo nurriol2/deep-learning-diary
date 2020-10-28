@@ -4,7 +4,10 @@ title:  Deep Learning Diary
 future:  true
 
 ##header navigation
-#header_pages:
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
 #feed.xml
 name:  Lessons from Deep Learning
 description:  One place for tutorials, notes, and projects about deep learning!
