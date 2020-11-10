@@ -1,5 +1,6 @@
 ---
 title:  Starting Your Own Diary
+tag:  tutorial
 ---
 
 Just like deep learning, blogging is for anyone willing to give it a try. If you like the style and layout of my Deep Learning Diary and want to add a something like it to your own projects, I'll show you how in this post. 
