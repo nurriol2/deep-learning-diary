@@ -40,7 +40,7 @@ You are not restricted to this single page for all of your content. As I mention
 This entire post was written in a simple markdown file. But GitHub Pages lets me turn that file into a stylized website using a tool called Jekyll. In another post, I go over some examples of using Jekyll to personalize your blog.
 
 **Learning Resources**  
-I had a ton of help getting this started. Here are some of the resources I frequently used.
+I had a ton of help getting this started. Here are the resources I used.
 - [What is GitHub Pages?](https://pages.github.com/)
 - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 - [How to Create & Host a Portfolio in 10 minutes with Github pages!](https://www.youtube.com/watch?v=u-RLu_8kwA0)
