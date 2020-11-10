@@ -19,5 +19,5 @@ header_pages:
   - about.md
 #feed.xml
 name:  Lessons from Deep Learning
-description:  One place for tutorials, notes, and projects about deep learning!
+description:  Projects, devlogs, and notes on deep learning!
 url:  https://nurriol2.github.io/deep-learning-diary/
