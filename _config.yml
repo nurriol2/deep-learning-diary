@@ -15,8 +15,8 @@ defaults:
 ##header navigation
 header_pages:
   - index.md
-  - projects.html
   - about.md
+  - projects.html
 #feed.xml
 name:  Lessons from Deep Learning
 description:  Devlogs, tutorials, and notes on deep learning!
