@@ -8,8 +8,6 @@ Please read the *About* page to learn more about this project.
 
 See *All Posts* for a list of all published posts.
 
-___
-
 Connect with me on:  
 - [GitHub](https://github.com/nurriol2)
 - [Twitter](http://twitter.com/_ElliotF)
