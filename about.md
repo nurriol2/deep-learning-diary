@@ -17,7 +17,7 @@ I sincerely hope that by sharing my experience through this website, I can contr
 # Myself #
 My name is Elliot. I recieved my BSc. Physics from the University of Illinois at Urbana-Champaign in 2019 where I was a biological physics researcher for 2 years. I'm currently a maths educator for grades K-12. When I'm not teaching my students, I'm teaching myself Data Science so I can start the next step in my career.  
 
-___
+___  
 
 Connect with me on:  
 - [GitHub](https://github.com/nurriol2)
