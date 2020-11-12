@@ -1,15 +1,6 @@
 ---
-theme:  minima
+title:  Posts
 ---
 
-<ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+- [Start a Blog](https://nurriol2.github.io/deep-learning-diary/deep-learning-diary/2020/10/28/start-a-blog.html)
 
-{% for post in site.posts %}
-    - [{{ post.title }}]({{ post.url }})
-{% end for %}
