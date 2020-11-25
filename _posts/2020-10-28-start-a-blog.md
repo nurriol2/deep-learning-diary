@@ -1,5 +1,6 @@
 ---
 title:  Starting Your Own Diary
+category:  "tutorial"
 permalink:  /deep-learning-diary/2020/10/28/start-a-blog.html
 ---
 
