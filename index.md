@@ -1,5 +1,5 @@
 ---
-title:  Welcome
+title:  Main Page
 ---
 
 **My Deep Learning Diary is a project I started to organize and share my experience with Deep Learning**
