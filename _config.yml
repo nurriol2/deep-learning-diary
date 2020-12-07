@@ -1,15 +1,5 @@
 #index
 title:  Deep Learning Diary
-#future:  true
-
-#defaults:
-#  -
-#    scope:
-#      path:  "" #all files in project
-#      type:  "posts"
-#    values:
-#      layout:  post
-#      author:  Elliot 
 
 ##header navigation
 header_pages:
