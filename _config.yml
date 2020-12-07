@@ -1,6 +1,5 @@
 #index
-#theme:  minima
-#title:  Deep Learning Diary
+title:  Deep Learning Diary
 #future:  true
 
 #defaults:
@@ -13,14 +12,14 @@
 #      author:  Elliot 
 
 ##header navigation
-#header_pages:
-#  - index.md
-#  - about.md
-#  - projects.md
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
 #feed.xml
-#name:  Lessons from Deep Learning
-#description:  Devlogs, tutorials, and notes on deep learning!
-#url:  https://nurriol2.github.io/deep-learning-diary/
+name:  Lessons from Deep Learning
+description:  Devlogs, tutorials, and notes on deep learning!
+url:  https://nurriol2.github.io/deep-learning-diary/
 
 plugins:
   - jekyll-remote-theme
