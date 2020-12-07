@@ -3,6 +3,9 @@ theme:  minima
 title:  Deep Learning Diary
 future:  true
 
+minima:
+  skin:  dark
+
 defaults:
   -
     scope:
