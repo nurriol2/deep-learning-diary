@@ -1,6 +1,5 @@
 #index
 title:  Deep Learning Diary
-subtitle: An open, online research notebook
 
 ##header navigation
 header_pages:
@@ -9,7 +8,7 @@ header_pages:
   - projects.md
 #feed.xml
 name:  Lessons from Deep Learning
-description:  Devlogs, tutorials, and notes on deep learning!
+description:  An open, online research notebook
 url:  https://nurriol2.github.io/deep-learning-diary/
 
 plugins:
