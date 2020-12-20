@@ -15,7 +15,7 @@ This project is a chance for me to normalize running into dead-ends, to talk abo
 I sincerely hope that by sharing my learning experience here I can inspire you to build your own projects, answer some questions you didn't know you had, and demonstrate that deep learning is a field for problem solvers-not just PhDs. 
 
 # Myself #
-My name is Elliot. I recieved my BSc. Physics from the University of Illinois at Urbana-Champaign in 2019, where I was a biological physics researcher for 2 years. I'm currently a maths educator for grades K-12. When I'm not teaching my students, I'm teaching myself Data Science so I can take the next step in my career. My personal site can be found by [clicking here](https://nurriol2.github.io/).
+My name is Elliot. I recieved my BSc. Physics from the University of Illinois at Urbana-Champaign in 2019, where I was a biological physics researcher for 2 years. I'm currently a maths educator for grades K-12. When I'm not teaching my students, I'm teaching myself Data Science so I can take the next step in my career. My personal site is available by [clicking here](https://nurriol2.github.io/).
 
 ___  
 
