@@ -1,5 +1,6 @@
 ---
 title:  Main Page
+layout:  post
 ---
 
 **My Deep Learning Diary is a project I started to organize and share my experience with Deep Learning**
