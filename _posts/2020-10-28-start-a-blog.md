@@ -1,7 +1,6 @@
 ---
 title:  Starting Your Own Diary
-category:  "tutorial"
-permalink:  /deep-learning-diary/2020/10/28/start-a-blog.html
+permalink:  /2020/10/28/start-a-blog.html
 ---
 
 Just like deep learning, blogging is for anyone willing to give it a try. If you like the style and layout of my Deep Learning Diary and want to add a something like it to your own projects, I'll show you how in this post. 
