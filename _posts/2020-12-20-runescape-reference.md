@@ -1,5 +1,5 @@
 ---
-title:  Old School Runescape - A Quick Guide
+title:  A Quick Guide to *Runescape*
 permalink:  2020/12/20/runescape-quick-guide.html
 ---
 
@@ -52,15 +52,32 @@ Untradeable items cannot be traded on the game market or between players.
 There are exceptions for some items, but most projects will not deal with those items.
 
 # The Grand Exchange - How it works #
+The Grand Exchange (GE) is a trading system for players to buy and sell in-game items for gold pieces. Below is a screenshot of the GE on World 429.
 
-The Grand Exchange (GE) is a trading system for players to buy and sell in-game items for gold pieces. 
+![The Grand Exchange](../assets/grand_exchange.png) 
 
-When creating a listing (buying or selling) on the GE, players must specify the price point and the number of items in the listing.
+Using the GE requires the character to be in the GE area and talk to a clerk (the NPC in blue, above). Creating a listing is done through a menu that can be seen in the image below.
 
-A listing will remain on the GE until it is completely fufilled. A completely fufilled order for the buyer means they recieved the desired quantity of an item, each purchased at or below the "buy for" price point. A completely fufilled order for the seller means they recieved gold equal to or greater than the "sell for" price point for each item in the listing.
+![Grand Exchange Menu](../assets/empty_ge_menu.png)
 
-Certain items have a buy limit which puts an upper limit on the number of that item a player can buy, every few hours.
+When creating a listing (buying or selling) on the GE, players must specify the price point and the number of items in the listing. In the screenshot below, I'm selling 3 trout for 19 gp each.
 
-The mechanism that matches orders is beyond the scope of this guide.
+![Selling a trout](../assets/selling_in_progress.png)
 
-Using the GE requires the character to be in the GE area and interact with a GUI.
+A completely fufilled order for the buyer means they recieved the desired quantity of an item, each purchased at or below the price per item. A completely fufilled order for the seller means they recieved gold equal to or greater than the total amount of the order.
+
+In the trout example, if my offer is matched with a buyer the buyer will recieve the 3 trout we see in the thumbnail. As the seller, I stand to make at least 57 gp from my offer. This is seen by the number above the confirmation button.
+
+The mechanism that matches orders is beyond the scope of this guide. In general, the GE will try to match a seller with the best offer. So, it is possible more than 57 gp in the trout example.
+
+Certain items have a buy limit which puts an upper limit on the number of that item a player can buy, every few hours. The buy limit for trout is 6,000.
+
+A listing will remain on the GE until it is completely fufilled. Below, I'm making an offer for a combat item. Even if I log out for many hours, the offer will remain open until a match is found.
+
+![Rapier Listing](../assets/incomplete_buy.png)
+
+
+# Conclusion #
+Those are the basic concepts to know about *Runescape* in order to understand the jargon scattered throughout my diary entries.
+
+Video games are an accessible medium for applied machine learning. They lend themselves greatly toward computer vision and deep learning techniques.
