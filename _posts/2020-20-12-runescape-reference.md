@@ -68,7 +68,7 @@ Using the GE requires the character to be in the GE area and interact with a GUI
 # A normal day in *Runescape* #
 I've only scratched the surface of all that *Runescape* has to offer. Even as a casual player, I make use of these basic concepts every time I log in. I'd like to finish this guide with some examples from my actual gameplay.
 
-[hello world](/assets/grand_exchange.png)
+![hello world](/assets/grand_exchange.png)
 
 
 
