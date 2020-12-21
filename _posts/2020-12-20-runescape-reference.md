@@ -85,4 +85,4 @@ A listing will remain on the GE until it is completely fufilled. Below, I'm maki
 # Conclusion #
 Those are the basic concepts to know about *Runescape* in order to understand the jargon scattered throughout my diary entries.
 
-Video games are an accessible medium for applied machine learning. They lend themselves greatly toward computer vision and deep learning techniques.
+Video games are an accessible medium for applied machine learning. They lend themselves greatly toward computer vision and deep learning techniques. I think *Runescape* is a great game to create projects around. I hope by reading my Deep Learning Diary, you will too!
