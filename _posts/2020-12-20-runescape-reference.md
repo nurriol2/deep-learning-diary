@@ -58,7 +58,7 @@ The Grand Exchange (GE) is a trading system for players to buy and sell in-game 
 
 Using the GE requires the character to be in the GE area and talk to a clerk (the NPC in blue, above). Creating a listing is done through a menu that can be seen in the image below.
 
-![Grand Exchange Menu](../assets/empty_ge_menu.svg)
+![Grand Exchange Menu](../assets/empty_ge_menu.png)
 
 When creating a listing (buying or selling) on the GE, players must specify the price point and the number of items in the listing. In the screenshot below, I'm selling 3 trout for 19 gp each.
 
