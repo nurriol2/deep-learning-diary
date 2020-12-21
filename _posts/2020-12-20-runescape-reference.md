@@ -54,7 +54,7 @@ There are exceptions for some items, but most projects will not deal with those 
 # The Grand Exchange - How it works #
 The Grand Exchange (GE) is a trading system for players to buy and sell in-game items for gold pieces. Below is a screenshot of the GE on World 429.
 
-![The Grand Exchange](../assets/grand_exchange.png) 
+![The Grand Exchange](https://nurriol2.github.io/deep-learning-diary/assets/grand_exchange.png) 
 
 Using the GE requires the character to be in the GE area and talk to a clerk (the NPC in blue, above). Creating a listing is done through a menu that can be seen in the image below.
 
@@ -62,11 +62,16 @@ Using the GE requires the character to be in the GE area and talk to a clerk (th
 
 When creating a listing (buying or selling) on the GE, players must specify the price point and the number of items in the listing. In the screenshot below, I'm selling 3 trout for 19 gp each.
 
-![Selling a trout](../assets/selling_in_progress.png)
+![Selling a trout](https://nurriol2.github.io/deep-learning-diary/assets/selling_in_progress.png)
 
-A completely fufilled order for the buyer means they recieved the desired quantity of an item, each purchased at or below the price per item. A completely fufilled order for the seller means they recieved gold equal to or greater than the total amount of the order.
+A completely fufilled order for the buyer means they recieved the desired quantity of an item, each purchased at or below the price per item. A completely fufilled order for the seller means they recieved gold equal to or greater than the total amount of the order. 
 
-In the trout example, if my offer is matched with a buyer the buyer will recieve the 3 trout we see in the thumbnail. As the seller, I stand to make at least 57 gp from my offer. This is seen by the number above the confirmation button.
+If my offer is matched with a buyer the buyer will recieve the 3 trout we see in the thumbnail. As the seller, I stand to make at least 57 gp from my offer. This is seen by the number above the confirmation button.
+
+
+As the seller, my completed order will appear as seen below. A buyer would see a similar screen. By visiting the GE, we can both retrieve the items of our transaction.
+
+![Completed Trout](https://nurriol2.github.io/deep-learning-diary/assets/selling_complete.png)
 
 The mechanism that matches orders is beyond the scope of this guide. In general, the GE will try to match a seller with the best offer. So, it is possible more than 57 gp in the trout example.
 
@@ -74,7 +79,7 @@ Certain items have a buy limit which puts an upper limit on the number of that i
 
 A listing will remain on the GE until it is completely fufilled. Below, I'm making an offer for a combat item. Even if I log out for many hours, the offer will remain open until a match is found.
 
-![Rapier Listing](../assets/incomplete_buy.png)
+![Rapier Listing](https://nurriol2.github.io/deep-learning-diary/assets/incomplete_buy.png)
 
 
 # Conclusion #
