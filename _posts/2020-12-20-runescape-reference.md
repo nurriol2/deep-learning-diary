@@ -1,5 +1,5 @@
 ---
-title:  A Quick Guide to *Runescape*
+title:  A Quick Guide to Runescape
 permalink:  2020/12/20/runescape-quick-guide.html
 ---
 
