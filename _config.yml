@@ -4,8 +4,9 @@ title:  Deep Learning Diary
 ##header navigation
 header_pages:
   - index.md
-  - about.md
   - projects.md
+  - about.md
+  
 #feed.xml
 name:  Lessons from Deep Learning
 description:  An open, online research notebook
