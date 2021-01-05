@@ -1,6 +1,6 @@
 ---
 title:  A Quick Guide to Runescape
-permalink:  2020/12/20/runescape-quick-guide.html
+permalink:  runescape-quick-guide.html
 ---
 
 Several projects found in this diary require some knowledge of an online game called *Runescape*. I'm writing this post as a singular point of reference for those who might be unfamiliar.
